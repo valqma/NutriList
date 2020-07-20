@@ -18,9 +18,6 @@
 | :---: | | :---: | | :---: | | :---: | | :---: | | :---: |
 
 
-[<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=" width=115 > <br> <sub> Diana Regina </sub>](https://github.com/Diana-ops) | [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHICUvO6Kcfvw/profile-displayphoto-shrink_400_400/0?e=1599696000&v=beta&t=kZAsZ5Nd-6IDGDpMjMYhlTi-UXIhI9RL5fswLd28jsQ" width=115 > <br> <sub> Valquiria Aidar HAcker </sub>](https://www.linkedin.com/in/val-aidar) |
-| :---: |
-
 Status do Projeto: Em desenvolvimento :warning:
 
 
