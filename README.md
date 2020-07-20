@@ -19,9 +19,9 @@
 [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQFIVUGtKOJC1g/profile-displayphoto-shrink_400_400/0?e=1600905600&v=beta&t=kWR9C30OajxQAZ7zYmJXo2_fT86utQIAg4_Km-iCwpE" width=115 >_<br>_<sub> Matheus Baeta Hyper </sub>](https://www.linkedin.com/in/mhbaeta/) |
 [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHA6kR-kprgsA/profile-displayphoto-shrink_400_400/0?e=1600905600&v=beta&t=-3TEx213he1uCHEhB_iEWXprophoVSjFwavXB_tI1Nw" width=115 >_<br>_<sub> Tatiane Costa Hustler </sub>](https://www.linkedin.com/in/tatianemikamicosta/) |
 [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQESK1mNEaYSyA/profile-displayphoto-shrink_400_400/0?e=1600905600&v=beta&t=rmh849D9vG7h7M79V9EwzegkjIFC1Hk7xvnttHQU6bE" width=115 >_<br>_<sub> Ana Carolina Quintella Hyper </sub>](https://www.linkedin.com/in/ana-carolina-quintella-b1071388/) | 
-| :---: | | :---: | | :---: | | :---: | | :---: | | :---: |
 
 
-Status do Projeto: Em desenvolvimento :warning:
+
+## Status do Projeto: Em desenvolvimento :warning:
 
 
